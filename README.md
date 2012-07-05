@@ -9,4 +9,5 @@ Released under the GPLv3 read more about here: http://www.gnu.org/licenses/gpl.h
 
 Note: This is a beta release if you find any bug of any kind please let me know, by leaving a message here: https://github.com/VozCMS/VozCMS/issues
 
-Requirement: to use VozCMS you need to have a webserver with php5, that's it.
+###Requirement: 
+To use VozCMS you need to have a webserver with php5, that's it.
